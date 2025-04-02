@@ -2,9 +2,9 @@
 A Python implementation of some endpoints from the [Sage Accounting API](https://developer.sage.com/accounting/reference/).
 
 ## Table of Contents
-* [General Info](##General-Info)
-* [Technologies](##Technologies)
-* [Author Info](##Author-Info)
+* [General Info](#General-Info)
+* [Technologies](#Technologies)
+* [Author Info](#Author-Info)
 
 ## General Info
 Version: 2.0, 02/04/2025<br>
